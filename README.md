@@ -1,4 +1,4 @@
-这是一个实现流体模拟的UE4插件学习项目 Demo:https://www.bilibili.com/video/av18286769
+这是一个实现流体模拟的UE4插件学习项目 Tutorial:https://www.bilibili.com/video/av18286769
 
 ![image](https://github.com/sitonmoon/FluidSimulationSurface/raw/master/demo.png)
 
