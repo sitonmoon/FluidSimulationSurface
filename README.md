@@ -1,4 +1,6 @@
-这是一个实现流体模拟的UE4插件学习项目
+这是一个实现流体模拟的UE4插件学习项目 Tutorial:https://www.bilibili.com/video/av18286769
+
+![image](https://github.com/sitonmoon/FluidSimulationSurface/raw/master/demo.png)
 
 插件内容会给到基于高度的流体（面流体）的具体实现方法，插件目前基于引擎版本为UE4.17.2
 
